@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a french software engineering student, and intern at @scaleway. Looking forward to contribute to many open-source projects!
+I'm a french software engineering student, and intern at [@scaleway](https://github.com/scaleway). 
+
+Looking forward to contribute to many open-source projects! ✨
 
 <!--
 **angristan/angristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
