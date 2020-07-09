@@ -4,6 +4,12 @@ I'm a french software engineering student, and intern at [@scaleway](https://git
 
 Looking forward to contribute to many open-source projects! ✨
 
+### Statistics for the past month
+
+| 🌏 Languages | 💻 Coding Activity |
+| :---------- | :------ |
+| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/6dda82e4-1672-4698-9fed-78adb85e9e0a.svg" alt="Recently used languages" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/001bf394-1f93-4d2e-a7ef-9a2784b22935.svg" alt="My coding activity" height="300px"></a> |
+
 <!--
 **angristan/angristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
