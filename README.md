@@ -4,6 +4,9 @@ I'm a french software engineering student, and intern at [@scaleway](https://git
 
 Looking forward to contribute to many open-source projects! ✨
 
+![Stanislas's github stats](https://github-readme-stats.vercel.app/api?username=angristan&show_icons=true)
+
+
 ### Statistics for the past month
 
 | 🌏 Languages | 💻 Coding Activity |
