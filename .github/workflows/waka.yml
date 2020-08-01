@@ -1,0 +1,16 @@
+name: Update README stats
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   # At 00:00 UTC on Sunday
+  #   - cron: "0 0 * * 0"
+
+jobs:
+  update-readme:
+    name: Update README stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: angristan/waka-readme-stats@dev
+        with:
+          GH_USER_TOKEN: ${{ secrets.GH_TOKEN }}
