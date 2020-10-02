@@ -1,4 +1,6 @@
-### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true" width=460>
+### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true" width=460> <img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fangristan&count_bg=%233599AC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"> 
+
+
 
 I'm a french software engineering student, and intern at [@scaleway](https://github.com/scaleway).
 
