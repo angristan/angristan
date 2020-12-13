@@ -4,6 +4,8 @@ I am a french software engineering student and apprentice [@scaleway](https://gi
 
 Looking forward to contribute to many open-source projects! ✨
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=angristan.angristan"> 
+
 <br>
 
 ### 🌍 The languages I use
