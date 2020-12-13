@@ -1,4 +1,4 @@
-### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true" width=460 height=160> <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=angristan.angristan"> 
+### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true" width=460 height=200> <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=angristan.angristan"> 
 
 I am a french software engineering student and apprentice [@scaleway](https://github.com/scaleway).
 
