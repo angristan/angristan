@@ -12,7 +12,7 @@ Looking forward to contribute to many open-source projects! ✨
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/6dda82e4-1672-4698-9fed-78adb85e9e0a.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/b3f2f765-617c-4263-ae0b-f3fed553809f.svg" height="300px"></a> |
 
-### 💼 Past week
+### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -23,3 +23,6 @@ CMake    59 mins         █▒░░░░░░░░░░░░░░░░�
 Python   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
