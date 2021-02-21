@@ -130,56 +130,5 @@ Python   41 mins         █░░░░░░░░░░░░░░░░░�
       <a href="https://github.com/Eywek">Valentin T.</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kalbhor">
-        <img src="https://avatars2.githubusercontent.com/u/14031096" width="100px;" alt="kalbhor"/>
-      </a>
-      <br />
-      <a href="https://github.com/kalbhor">Lakshay Kalbhor</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nuryslyrt">
-        <img src="https://avatars2.githubusercontent.com/u/632267" width="100px;" alt="nuryslyrt"/>
-      </a>
-      <br />
-      <a href="https://github.com/nuryslyrt">Nur Yesilyurt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/neet">
-        <img src="https://avatars2.githubusercontent.com/u/19276905" width="100px;" alt="neet"/>
-      </a>
-      <br />
-      <a href="https://github.com/neet">Ryō Igarashi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guillaumevincent">
-        <img src="https://avatars2.githubusercontent.com/u/943762" width="100px;" alt="guillaumevincent"/>
-      </a>
-      <br />
-      <a href="https://github.com/guillaumevincent">Guillaume Vincent</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lvm">
-        <img src="https://avatars2.githubusercontent.com/u/34095" width="100px;" alt="lvm"/>
-      </a>
-      <br />
-      <a href="https://github.com/lvm">~lmn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/unixfox">
-        <img src="https://avatars2.githubusercontent.com/u/4016501" width="100px;" alt="unixfox"/>
-      </a>
-      <br />
-      <a href="https://github.com/unixfox">Émilien Devos</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jxom">
-        <img src="https://avatars2.githubusercontent.com/u/7336481" width="100px;" alt="jxom"/>
-      </a>
-      <br />
-      <a href="https://github.com/jxom">Jake Moxey</a>
-    </td>
-  </tr>
 </table>
 <!--END_SECTION:top-followers-->
