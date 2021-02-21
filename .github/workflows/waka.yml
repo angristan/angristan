@@ -1,16 +1,16 @@
-name: Update README stats
+name: Waka Readme
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   # At 00:00 UTC on Sunday
-  #   - cron: "0 0 * * 0"
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update README stats
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: angristan/waka-readme-stats@dev
+      - uses: athul/waka-readme@master
         with:
-          GH_USER_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
