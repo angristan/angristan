@@ -2,7 +2,7 @@
 
 I am a french software engineering student and apprentice [@scaleway](https://github.com/scaleway).
 
-I love Go ❤️
+I love ≡𝐺𝑂 ❤️
 
 I look forward to contribute to many open-source projects! ✨
 
