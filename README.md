@@ -6,7 +6,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 ### My projects
 
-### School 👨‍🎓
+#### School 👨‍🎓
 
 - [Codebench](https://github.com/codebench-esgi): [WIP] Code benchmarking platform (TypeScript, Go, Firecracker)
 - [first.fm](https://github.com/angristan/first.fm): Android client for Last.fm written in Kotlin
@@ -15,13 +15,13 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 - [meet&do](https://github.com/angristan/meetndo): Meetup website made with Ruby on Rails // Project for the Software Engineering class at Hanyang University
 - [Fight Food Waste](https://github.com/fight-food-waste): Fake non-profit for our 2nd year school project (Laravel, JavaFX, Express, C, GTK)
 
-### DevOps 🔁
+#### DevOps 🔁
 
 - [ansible-roles](https://github.com/angristan/ansible-roles): My Ansible roles for Debian/Ubuntu
 - [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own Feedbin RSS reader in Docker
 - [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the Pleroma federated social network
 
-### Docs ✍️
+#### Docs ✍️
 
 - [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my GitHub stars
 - [dotfiles](https://github.com/angristan/dotfiles): Personal dotfiles managed by chezmoi
