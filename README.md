@@ -8,10 +8,10 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 #### School 👨‍🎓
 
-- [Codebench](https://github.com/codebench-esgi): [WIP] Code benchmarking platform (TypeScript, **Go**, **Firecracker**)
+- [Codebench](https://github.com/codebench-esgi): [WIP] Code benchmarking platform (TypeScript, **Go**, **Rust** **Firecracker**)
 - [first.fm](https://github.com/angristan/first.fm): Android client for Last.fm written in **Kotlin**
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
-- [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN**
+- [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
 - [meet&do](https://github.com/angristan/meetndo): Meetup website made with **Ruby on Rails**
 - [Fight Food Waste](https://github.com/fight-food-waste): Fake non-profit for our 2nd year school project (**Laravel**, JavaFX, Express, C, GTK)
 
