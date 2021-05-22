@@ -8,7 +8,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 #### School 👨‍🎓
 
-- [Codebench](https://github.com/codebench-esgi): [WIP] Code benchmarking platform (NestJS, **React**, **Go** workers, **Rust** runners, **Firecracker** microVMs)
+- [Codebench](https://github.com/codebench-esgi): [WIP] Code benchmarking platform (NestJS, **React**, **Go**/**Rust** workers, **Firecracker** microVMs)
 - [first.fm](https://github.com/angristan/first.fm): Android client for Last.fm written in **Kotlin**
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
 - [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
