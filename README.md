@@ -31,9 +31,9 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 #### Scripts 💾
 
-- [wireguard-install](https://github/com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
-- [openvpn-install](https://github/com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github/com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
+- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
+- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
+- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
 ### 🌍 The languages I use
 
