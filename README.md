@@ -2,7 +2,7 @@
 
 I am a french software engineering student and apprentice [@scaleway](https://github.com/scaleway).
 
-I love ≡𝐺𝑂, and like to contribute to open-source projects on my free time.
+I love ≡𝐺𝑂, and like to contribute to open-source projects on my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
 
 ### My projects
 
