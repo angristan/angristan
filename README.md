@@ -8,9 +8,9 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 #### School 👨‍🎓
 
-- firstfm-ios: [WIP]: iOS client for Last.fm written with Swift and **SwiftUI**
+- [firstfm-ios](https://angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
 - [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [firstfm-android](https://github.com/angristan/firstfm-android): Android client for Last.fm written in **Kotlin**
+- [firstfm-android](https://github.com/angristan/firstfm-android): Android client for Last.fm written in **Kotlin** (the iOS one is much better)
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
 - [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
 - [meet&do](https://github.com/angristan/meetndo): Meetup website made with **Ruby on Rails**
