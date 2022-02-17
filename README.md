@@ -36,6 +36,10 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
 - [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
+#### Tools 🛠
+
+- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+
 ### 🌍 The languages I use
 
 | ⏰ Past month                                                                                                                                           | ⌛️ Past Year                                                                                                                                           |
