@@ -39,6 +39,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 #### Tools 🛠
 
 - [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
 
 ### 🌍 The languages I use
 
