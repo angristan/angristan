@@ -8,6 +8,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 #### School 👨‍🎓
 
+- [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, React with Remix, RabbitMQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
 - [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
 - [firstfm-android](https://github.com/angristan/firstfm-android): Android client for Last.fm written in **Kotlin** (the iOS one is much better)
