@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy" width=460 height=180>
 
-I am a french backend software engineer [@Qonto](https://qonto.com/en).
+I am a french software engineer.
 
 I love ≡𝐺𝑂, and like to contribute to open-source projects on my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
 
