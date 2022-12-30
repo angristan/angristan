@@ -52,3 +52,6 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 | ✍️ Coding activity                                                                                                                       |
 | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/fbafcbd7-d79a-40c6-90d2-291ce861e197.svg"></a> |
+
+
+<a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/fbafcbd7-d79a-40c6-90d2-291ce861e197.svg"></a>
