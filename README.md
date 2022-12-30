@@ -45,8 +45,10 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 ### 🌍 The languages I use
 
-| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                           |
+| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/71c14b35-c64d-470b-b5fb-3c497e137de4.svg" height="300px"></a> |
 
-<a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/fbafcbd7-d79a-40c6-90d2-291ce861e197.svg"></a>
+| ✍️ Coding activity                                                                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/fbafcbd7-d79a-40c6-90d2-291ce861e197.svg"></a> |
