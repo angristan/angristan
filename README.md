@@ -6,6 +6,9 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 ### My projects
 
+#### Web 🌐
+
+- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
 #### School 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
