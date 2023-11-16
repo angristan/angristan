@@ -6,9 +6,12 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 
 ### My projects
 
-#### Web 🌐
+#### Scripts 💾
 
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
+- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
+- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
+- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
+
 #### School 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
@@ -26,6 +29,10 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 - [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in Docker
 - [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the **Pleroma** federated social network
 
+#### Web 🌐
+
+- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
+
 #### Docs ✍️
 
 - [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
@@ -33,12 +40,6 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 - [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
 - [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
 - [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
-
-#### Scripts 💾
-
-- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
-- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
 #### Tools 🛠
 
