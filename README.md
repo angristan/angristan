@@ -32,6 +32,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects on my free ti
 #### Web 🌐
 
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
+- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
 
 #### Docs ✍️
 
