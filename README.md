@@ -2,7 +2,7 @@
 
 I am a French software engineer.
 
-I love ≡𝐺𝑂, and like to contribute to open-source projects in my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
+I love ≡𝐺𝑂 and Rust 🦀, and like to contribute to open-source projects in my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
 
 ### My projects
 
