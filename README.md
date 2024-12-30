@@ -10,6 +10,11 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects in my free ti
 
 - [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages.
 
+#### Web 🌐
+
+- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
+- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
+
 #### Scripts 💾
 
 - [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
@@ -32,11 +37,6 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects in my free ti
 - [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian/Ubuntu
 - [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in Docker
 - [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the **Pleroma** federated social network
-
-#### Web 🌐
-
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel** and **Vue 3** with some neat features
-- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
 
 #### Docs ✍️
 
