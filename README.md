@@ -8,7 +8,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects in my free ti
 
 #### Home automation 🏡
 
-- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages.
+- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
 
 #### Web 🌐
 
