@@ -52,6 +52,7 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects in my free ti
 - [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
 - [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workout charts from the Bsport API.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
+- [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
 
 ### 🌍 The languages I use
 
