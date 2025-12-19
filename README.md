@@ -2,18 +2,28 @@
 
 I am a French software engineer.
 
-I love ≡𝐺𝑂, and like to contribute to open-source projects in my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
+I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub, so you might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
 
 ### My projects
-
-#### Home automation 🏡
-
-- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
 
 #### Web 🌐
 
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
 - [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
+
+#### Tools 🛠
+
+- [fast-resume](https://github.com/angristan/fast-resume): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
+- [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
+- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
+- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+- [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
+- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
+- [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workout charts from the Bsport API.
+
+#### Home automation 🏡
+
+- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
 
 #### Scripts 💾
 
@@ -46,16 +56,8 @@ I love ≡𝐺𝑂, and like to contribute to open-source projects in my free ti
 - [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
 - [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
 
-#### Tools 🛠
-
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
-- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
-- [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workout charts from the Bsport API.
-- [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
-- [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
-
 ### 🌍 The languages I use
 
-| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" /> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" width="400px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" width="400px"></a>    |
+| ⏰ Past month                                                                                                                                          | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" /> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" width="400px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" width="400px"></a>     |
