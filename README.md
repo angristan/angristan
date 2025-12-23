@@ -9,7 +9,7 @@ I love building and contributing to open-source projects in my free time. I spen
 #### Web 🌐
 
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
-- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**, with some **tracing** experimentations
+- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**
 
 #### Tools 🛠
 
@@ -18,8 +18,6 @@ I love building and contributing to open-source projects in my free time. I spen
 - [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
 - [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
-- [bsport-exporter](https://github.com/angristan/bsport-exporter): A **Prometheus exporter** for bsport.io, to track how many workouts I do over time 💪
-- [bsport-charts](https://github.com/angristan/bsport-charts): A CLI written in **Go using go-echarts** that generates workout charts from the Bsport API.
 
 #### Home automation 🏡
 
