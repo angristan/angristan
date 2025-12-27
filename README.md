@@ -10,7 +10,6 @@ I love building and contributing to open-source projects in my free time. I spen
 
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
 - [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia** and **React**
-- [spotify-search-proxy](https://github.com/angristan/spotify-search-proxy): A simple API proxy to the Spotify API, made with **Go** and **Redis**
 
 #### Tools 🛠
 
@@ -52,7 +51,6 @@ I love building and contributing to open-source projects in my free time. I spen
 #### Docs ✍️
 
 - [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
-- [dotfiles](https://github.com/angristan/dotfiles): Personal **dotfiles** managed by **chezmoi**
 - [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
 - [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
 - [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
