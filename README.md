@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
-I am a French software engineer.
+I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
 
 I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub, so you might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
 
@@ -31,7 +31,7 @@ I love building and contributing to open-source projects in my free time. I spen
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
 - [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
-#### School 👨‍🎓
+#### School projects 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
