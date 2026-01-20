@@ -14,6 +14,7 @@ I love building and contributing to open-source projects in my free time. I spen
 
 #### Tools 🛠
 
+- [Netclode](https://github.com/angristan/netclode): A self-hosted personal coding agent with sandboxed sessions accessible from iOS, built with **Go**, **SwiftUI**, and **Kata Containers** microVMs
 - [fast-resume](https://github.com/angristan/fast-resume): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
 - [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**
 - [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
