@@ -1,55 +1,3 @@
-### Badge Style Preview (DELETE THIS SECTION AFTER CHOOSING)
-
-#### Option A: Table with stars column (flat-square)
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [wireguard-install](https://github.com/angristan/wireguard-install) | WireGuard VPN installer for Linux | ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&label=) |
-| [openvpn-install](https://github.com/angristan/openvpn-install) | OpenVPN installer for Linux | ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&label=) |
-| [larafeed](https://github.com/angristan/larafeed) | Web-based feed reader | ![](https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&label=) |
-
-#### Option B: Table without description
-
-| Project | Stars |
-|---------|-------|
-| [wireguard-install](https://github.com/angristan/wireguard-install) | ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=social) |
-| [openvpn-install](https://github.com/angristan/openvpn-install) | ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=social) |
-| [larafeed](https://github.com/angristan/larafeed) | ![](https://img.shields.io/github/stars/angristan/larafeed?style=social) |
-
-#### Option C: Inline badge after link (current list style - NOT aligned)
-
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=social): WireGuard VPN installer
-- [openvpn-install](https://github.com/angristan/openvpn-install) ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=social): OpenVPN installer
-
-#### Option D: List-style with aligned stars (HTML table, no borders)
-
-<table>
-<tr><td>🌐</td><td><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader built with Laravel</td><td><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
-<tr><td>🌐</td><td><a href="https://github.com/angristan/gongyu">Gongyu</a>: Self-hosted bookmark manager</td><td><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
-<tr><td>💾</td><td><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: WireGuard VPN installer for Linux</td><td><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
-<tr><td>💾</td><td><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: OpenVPN installer for Linux</td><td><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
-</table>
-
-#### Option E: Stars on the right with fixed width
-
-<table>
-<tr><td width="500"><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader built with Laravel</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
-<tr><td width="500"><a href="https://github.com/angristan/gongyu">Gongyu</a>: Self-hosted bookmark manager</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
-<tr><td width="500"><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: WireGuard VPN installer</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
-<tr><td width="500"><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: OpenVPN installer</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
-</table>
-
-#### Option F: Bullet list look with aligned stars (what you want!)
-
-<table><tbody>
-<tr><td>•</td><td width="550"><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader, built with <b>Laravel</b>, <b>Inertia</b> and <b>React</b></td><td><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
-<tr><td>•</td><td width="550"><a href="https://github.com/angristan/gongyu">Gongyu</a>: A modern, self-hosted bookmark manager inspired by Shaarli</td><td><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
-<tr><td>•</td><td width="550"><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: <b>WireGuard</b> VPN installer for Linux servers</td><td><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
-<tr><td>•</td><td width="550"><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: <b>OpenVPN</b> installer for Linux servers</td><td><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
-</tbody></table>
-
----
-
 ### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
 I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
@@ -62,51 +10,51 @@ Here are some of my projects. I hope you find them interesting!
 
 #### Web 🌐
 
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
-- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia** and **React**
-- [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia** and **React**
+- [Larafeed](https://github.com/angristan/larafeed) ![](https://img.shields.io/github/stars/angristan/larafeed?style=social): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
+- [Gongyu](https://github.com/angristan/gongyu) ![](https://img.shields.io/github/stars/angristan/gongyu?style=social): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia** and **React**
+- [Bulla](https://github.com/angristan/bulla) ![](https://img.shields.io/github/stars/angristan/bulla?style=social): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia** and **React**
 
 #### Tools 🛠
 
-- [Netclode](https://github.com/angristan/netclode): A self-hosted personal coding agent with sandboxed sessions accessible from iOS, built with **Go**, **SwiftUI**, and **Kata Containers** microVMs
-- [fast-resume](https://github.com/angristan/fast-resume): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
-- [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**
-- [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
-- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
-- [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
-- [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
+- [Netclode](https://github.com/angristan/netclode) ![](https://img.shields.io/github/stars/angristan/netclode?style=social): A self-hosted personal coding agent with sandboxed sessions accessible from iOS, built with **Go**, **SwiftUI**, and **Kata Containers** microVMs
+- [fast-resume](https://github.com/angristan/fast-resume) ![](https://img.shields.io/github/stars/angristan/fast-resume?style=social): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
+- [hue-tui](https://github.com/angristan/hue-tui) ![](https://img.shields.io/github/stars/angristan/hue-tui?style=social): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**
+- [MacThrottle](https://github.com/angristan/MacThrottle) ![](https://img.shields.io/github/stars/angristan/MacThrottle?style=social): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
+- [matomo-to-umami](https://github.com/angristan/matomo-to-umami) ![](https://img.shields.io/github/stars/angristan/matomo-to-umami?style=social): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
+- [trakt-cli](https://github.com/angristan/trakt-cli) ![](https://img.shields.io/github/stars/angristan/trakt-cli?style=social): A CLI tool for trakt.tv in **Go**.
+- [opencode-wakatime](https://github.com/angristan/opencode-wakatime) ![](https://img.shields.io/github/stars/angristan/opencode-wakatime?style=social): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
+- [codex-wakatime](https://github.com/angristan/codex-wakatime) ![](https://img.shields.io/github/stars/angristan/codex-wakatime?style=social): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
 
 #### Home automation 🏡
 
-- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
+- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs) ![](https://img.shields.io/github/stars/angristan/teleinfo2mqtt-rs?style=social): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
 
 #### Scripts 💾
 
-- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
-- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=social): **WireGuard** VPN installer for Linux servers
+- [openvpn-install](https://github.com/angristan/openvpn-install) ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=social): **OpenVPN** installer for Linux servers
+- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) ![](https://img.shields.io/github/stars/angristan/nginx-autoinstall?style=social): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
 #### School projects 👨‍🎓
 
-- [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
-- [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
-- [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
-- [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
+- [Tereus](https://github.com/tereus-project) ![](https://img.shields.io/github/stars/tereus-project/tereus?style=social): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
+- [firstfm-ios](https://github.com/angristan/firstfm-ios) ![](https://img.shields.io/github/stars/angristan/firstfm-ios?style=social): iOS client for Last.fm written with Swift and **SwiftUI**
+- [Codebench](https://github.com/codebench-dev/) ![](https://img.shields.io/github/stars/codebench-dev/codebench?style=social): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
+- [Soundhive](https://github.com/soundhive) ![](https://img.shields.io/github/stars/soundhive/api?style=social): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
+- [palette](https://github.com/angristan/palette) ![](https://img.shields.io/github/stars/angristan/palette?style=social): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
 
 #### DevOps 🔁
 
-- [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian/Ubuntu
-- [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in Docker
-- [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the **Pleroma** federated social network
+- [ansible-roles](https://github.com/angristan/ansible-roles) ![](https://img.shields.io/github/stars/angristan/ansible-roles?style=social): My **Ansible** roles for Debian/Ubuntu
+- [feedbin-docker](https://github.com/angristan/feedbin-docker) ![](https://img.shields.io/github/stars/angristan/feedbin-docker?style=social): Self-host your own **Feedbin** RSS reader in Docker
+- [docker-pleroma](https://github.com/angristan/docker-pleroma) ![](https://img.shields.io/github/stars/angristan/docker-pleroma?style=social): Docker image for the **Pleroma** federated social network
 
 #### Docs ✍️
 
-- [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
-- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
-- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
-- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
+- [awesome-stars](https://github.com/angristan/awesome-stars) ![](https://img.shields.io/github/stars/angristan/awesome-stars?style=social): A curated list of my **GitHub stars**
+- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd) ![](https://img.shields.io/github/stars/angristan/awesome-lxc-lxd?style=social): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
+- [nixos-config](https://github.com/angristan/nixos-config) ![](https://img.shields.io/github/stars/angristan/nixos-config?style=social): My **NixOS** configuration files
+- [arch-linux-install](https://github.com/angristan/arch-linux-install) ![](https://img.shields.io/github/stars/angristan/arch-linux-install?style=social): My **Arch Linux** installation notes
 
 ### 🌍 The languages I use
 
