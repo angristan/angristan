@@ -1,28 +1,24 @@
-### Badge Styles (DELETE AFTER CHOOSING)
+### Badge Styles with `<img>` (DELETE AFTER CHOOSING)
 
-**1. Flat (blue):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat): description
+**1. Right-aligned badge:**
+- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />
+- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />
+- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=social" />
 
-**2. Flat-square (blue):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square): description
+**2. Right-aligned flat-square:**
+- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&label=⭐" />
+- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&label=⭐" />
+- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&label=⭐" />
 
-**3. Plastic (gradient):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=plastic): description
+**3. Right-aligned minimal:**
+- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=gray&label=" />
+- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&color=gray&label=" />
+- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&color=gray&label=" />
 
-**4. Flat minimal (just number):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&label=⭐): description
-
-**5. Custom color (gold):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&color=gold&label=⭐): description
-
-**6. Custom color (black):**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=black&label=★): description
-
-**7. Minimal gray:**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=gray&label=): description
-
-**8. Badge with logo:**
-- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&logo=github&label=): description
+**4. Right-aligned with GitHub logo:**
+- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&logo=github&label=stars" />
+- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat&logo=github&label=stars" />
+- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat&logo=github&label=stars" />
 
 ---
 
