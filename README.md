@@ -1,24 +1,31 @@
-### Badge Styles with `<img>` (DELETE AFTER CHOOSING)
+### Badge Styles - Vertical Alignment (DELETE AFTER CHOOSING)
 
-**1. Right-aligned badge:**
-- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />
-- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />
-- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=social" />
+**1. valign="middle":**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />: OpenVPN installer
+- [larafeed](https://github.com/angristan/larafeed) <img valign="middle" src="https://img.shields.io/github/stars/angristan/larafeed?style=social" />: Web-based feed reader
 
-**2. Right-aligned flat-square:**
-- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&label=⭐" />
-- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&label=⭐" />
-- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&label=⭐" />
+**2. valign="top":**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img valign="top" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img valign="top" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />: OpenVPN installer
 
-**3. Right-aligned minimal:**
-- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=gray&label=" />
-- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&color=gray&label=" />
-- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&color=gray&label=" />
+**3. valign="bottom":**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img valign="bottom" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img valign="bottom" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />: OpenVPN installer
 
-**4. Right-aligned with GitHub logo:**
-- [wireguard-install](https://github.com/angristan/wireguard-install): WireGuard VPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&logo=github&label=stars" />
-- [openvpn-install](https://github.com/angristan/openvpn-install): OpenVPN installer <img align="right" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat&logo=github&label=stars" />
-- [larafeed](https://github.com/angristan/larafeed): Web-based feed reader <img align="right" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat&logo=github&label=stars" />
+**4. align="center" (deprecated but might work):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img align="center" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img align="center" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" />: OpenVPN installer
+
+**5. Flat-square with valign="middle":**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&label=⭐" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&label=⭐" />: OpenVPN installer
+- [larafeed](https://github.com/angristan/larafeed) <img valign="middle" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&label=⭐" />: Web-based feed reader
+
+**6. GitHub logo with valign="middle":**
+- [wireguard-install](https://github.com/angristan/wireguard-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&logo=github&label=stars" />: WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat&logo=github&label=stars" />: OpenVPN installer
+- [larafeed](https://github.com/angristan/larafeed) <img valign="middle" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat&logo=github&label=stars" />: Web-based feed reader
 
 ---
 
