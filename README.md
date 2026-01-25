@@ -4,7 +4,9 @@ I'm Stan, a software engineer interested in all parts of the stack, from low-lev
 
 I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub, so you might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
 
-### My projects
+### Projects
+
+Here are some of my projects. I hope you find them interesting!
 
 #### Web 🌐
 
@@ -38,11 +40,8 @@ I love building and contributing to open-source projects in my free time. I spen
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
 - [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [firstfm-android](https://github.com/angristan/firstfm-android): Android client for Last.fm written in **Kotlin** (the iOS one is much better)
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
 - [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
-- [meet&do](https://github.com/angristan/meetndo): Meetup website made with **Ruby on Rails**
-- [Fight Food Waste](https://github.com/fight-food-waste): Fake non-profit for our 2nd year school project (**Laravel**, JavaFX, Express, C, GTK)
 
 #### DevOps 🔁
 
