@@ -1,3 +1,31 @@
+### Badge Styles (DELETE AFTER CHOOSING)
+
+**1. Flat (blue):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat): description
+
+**2. Flat-square (blue):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square): description
+
+**3. Plastic (gradient):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=plastic): description
+
+**4. Flat minimal (just number):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&label=⭐): description
+
+**5. Custom color (gold):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&color=gold&label=⭐): description
+
+**6. Custom color (black):**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=black&label=★): description
+
+**7. Minimal gray:**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&color=gray&label=): description
+
+**8. Badge with logo:**
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&logo=github&label=): description
+
+---
+
 ### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
 I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
