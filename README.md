@@ -39,6 +39,15 @@
 <tr><td width="500"><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: OpenVPN installer</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
 </table>
 
+#### Option F: Bullet list look with aligned stars (what you want!)
+
+<table><tbody>
+<tr><td>•</td><td width="550"><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader, built with <b>Laravel</b>, <b>Inertia</b> and <b>React</b></td><td><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
+<tr><td>•</td><td width="550"><a href="https://github.com/angristan/gongyu">Gongyu</a>: A modern, self-hosted bookmark manager inspired by Shaarli</td><td><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
+<tr><td>•</td><td width="550"><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: <b>WireGuard</b> VPN installer for Linux servers</td><td><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
+<tr><td>•</td><td width="550"><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: <b>OpenVPN</b> installer for Linux servers</td><td><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
+</tbody></table>
+
 ---
 
 ### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
