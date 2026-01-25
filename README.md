@@ -1,3 +1,46 @@
+### Badge Style Preview (DELETE THIS SECTION AFTER CHOOSING)
+
+#### Option A: Table with stars column (flat-square)
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [wireguard-install](https://github.com/angristan/wireguard-install) | WireGuard VPN installer for Linux | ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=flat-square&label=) |
+| [openvpn-install](https://github.com/angristan/openvpn-install) | OpenVPN installer for Linux | ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=flat-square&label=) |
+| [larafeed](https://github.com/angristan/larafeed) | Web-based feed reader | ![](https://img.shields.io/github/stars/angristan/larafeed?style=flat-square&label=) |
+
+#### Option B: Table without description
+
+| Project | Stars |
+|---------|-------|
+| [wireguard-install](https://github.com/angristan/wireguard-install) | ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=social) |
+| [openvpn-install](https://github.com/angristan/openvpn-install) | ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=social) |
+| [larafeed](https://github.com/angristan/larafeed) | ![](https://img.shields.io/github/stars/angristan/larafeed?style=social) |
+
+#### Option C: Inline badge after link (current list style - NOT aligned)
+
+- [wireguard-install](https://github.com/angristan/wireguard-install) ![](https://img.shields.io/github/stars/angristan/wireguard-install?style=social): WireGuard VPN installer
+- [openvpn-install](https://github.com/angristan/openvpn-install) ![](https://img.shields.io/github/stars/angristan/openvpn-install?style=social): OpenVPN installer
+
+#### Option D: List-style with aligned stars (HTML table, no borders)
+
+<table>
+<tr><td>🌐</td><td><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader built with Laravel</td><td><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
+<tr><td>🌐</td><td><a href="https://github.com/angristan/gongyu">Gongyu</a>: Self-hosted bookmark manager</td><td><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
+<tr><td>💾</td><td><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: WireGuard VPN installer for Linux</td><td><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
+<tr><td>💾</td><td><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: OpenVPN installer for Linux</td><td><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
+</table>
+
+#### Option E: Stars on the right with fixed width
+
+<table>
+<tr><td width="500"><a href="https://github.com/angristan/larafeed">Larafeed</a>: Web-based feed reader built with Laravel</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/larafeed?style=social" /></td></tr>
+<tr><td width="500"><a href="https://github.com/angristan/gongyu">Gongyu</a>: Self-hosted bookmark manager</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/gongyu?style=social" /></td></tr>
+<tr><td width="500"><a href="https://github.com/angristan/wireguard-install">wireguard-install</a>: WireGuard VPN installer</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/wireguard-install?style=social" /></td></tr>
+<tr><td width="500"><a href="https://github.com/angristan/openvpn-install">openvpn-install</a>: OpenVPN installer</td><td align="right"><img src="https://img.shields.io/github/stars/angristan/openvpn-install?style=social" /></td></tr>
+</table>
+
+---
+
 ### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
 I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
