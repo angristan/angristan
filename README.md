@@ -1,62 +1,24 @@
-### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
+### Hi there <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
-I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
-
-I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub, so you might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
+I'm Stan, a software engineer interested in all parts of the stack, from low-level systems and infra to web and mobile. I love building open-source projects in my free time. You might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
 
 ### Projects
 
-Here are some of my projects. I hope you find them interesting!
+**Web apps** - I build self-hosted tools with **Laravel**, **Inertia** and **React**: [Larafeed](https://github.com/angristan/larafeed) <img valign="middle" src="https://img.shields.io/github/stars/angristan/larafeed?style=flat&label=" /> (feed reader), [Gongyu](https://github.com/angristan/gongyu) <img valign="middle" src="https://img.shields.io/github/stars/angristan/gongyu?style=flat&label=" /> (bookmark manager), and [Bulla](https://github.com/angristan/bulla) <img valign="middle" src="https://img.shields.io/github/stars/angristan/bulla?style=flat&label=" /> (commenting system for static sites).
 
-#### Web 🌐
+**Coding tools** - [Netclode](https://github.com/angristan/netclode) <img valign="middle" src="https://img.shields.io/github/stars/angristan/netclode?style=flat&label=" /> is a self-hosted coding agent with sandboxed sessions accessible from iOS, built with **Go**, **SwiftUI**, and **Kata Containers** microVMs. [fast-resume](https://github.com/angristan/fast-resume) <img valign="middle" src="https://img.shields.io/github/stars/angristan/fast-resume?style=flat&label=" /> is a fuzzy finder TUI to search and resume coding agent sessions (**Python**/**Textual**). I also wrote Wakatime plugins for [OpenCode](https://github.com/angristan/opencode-wakatime) <img valign="middle" src="https://img.shields.io/github/stars/angristan/opencode-wakatime?style=flat&label=" /> and [Codex CLI](https://github.com/angristan/codex-wakatime) <img valign="middle" src="https://img.shields.io/github/stars/angristan/codex-wakatime?style=flat&label=" /> in **TypeScript**.
 
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
-- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia** and **React**
-- [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia** and **React**
+**TUIs & native apps** - [hue-tui](https://github.com/angristan/hue-tui) <img valign="middle" src="https://img.shields.io/github/stars/angristan/hue-tui?style=flat&label=" /> controls Philips Hue lights (**Go**/**Bubble Tea**). [MacThrottle](https://github.com/angristan/MacThrottle) <img valign="middle" src="https://img.shields.io/github/stars/angristan/MacThrottle?style=flat&label=" /> is a **SwiftUI** menu bar app that shows when your Mac is thermal throttling. [trakt-cli](https://github.com/angristan/trakt-cli) <img valign="middle" src="https://img.shields.io/github/stars/angristan/trakt-cli?style=flat&label=" /> is a CLI for trakt.tv in **Go**.
 
-#### Tools 🛠
+**Home automation** - [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs) <img valign="middle" src="https://img.shields.io/github/stars/angristan/teleinfo2mqtt-rs?style=flat&label=" /> converts TeleInfo frames from a Linky meter to Home Assistant-compatible MQTT messages, using my [own MQTT client](https://github.com/angristan/aimeqtt) <img valign="middle" src="https://img.shields.io/github/stars/angristan/aimeqtt?style=flat&label=" />.
 
-- [Netclode](https://github.com/angristan/netclode): A self-hosted personal coding agent with sandboxed sessions accessible from iOS, built with **Go**, **SwiftUI**, and **Kata Containers** microVMs
-- [fast-resume](https://github.com/angristan/fast-resume): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
-- [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**
-- [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
-- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
-- [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
-- [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
+**Scripts** - Linux server installers for [WireGuard](https://github.com/angristan/wireguard-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/wireguard-install?style=flat&label=" />, [OpenVPN](https://github.com/angristan/openvpn-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/openvpn-install?style=flat&label=" />, and [Nginx](https://github.com/angristan/nginx-autoinstall) <img valign="middle" src="https://img.shields.io/github/stars/angristan/nginx-autoinstall?style=flat&label=" /> (compile from source with custom modules).
 
-#### Home automation 🏡
+**School projects** - [Tereus](https://github.com/tereus-project) <img valign="middle" src="https://img.shields.io/github/stars/tereus-project?style=flat&label=" /> (code transpiler, **Go**/ANTLR/Remix), [Codebench](https://github.com/codebench-dev/) <img valign="middle" src="https://img.shields.io/github/stars/codebench-dev?style=flat&label=" /> (code benchmarking, **Go** workers/**Firecracker** microVMs), [Soundhive](https://github.com/soundhive) <img valign="middle" src="https://img.shields.io/github/stars/soundhive?style=flat&label=" /> (music sharing, NestJS/Angular/C++), [firstfm-ios](https://github.com/angristan/firstfm-ios) <img valign="middle" src="https://img.shields.io/github/stars/angristan/firstfm-ios?style=flat&label=" /> (Last.fm client, **SwiftUI**), and [palette](https://github.com/angristan/palette) <img valign="middle" src="https://img.shields.io/github/stars/angristan/palette?style=flat&label=" /> (color extraction with **k-means**/**k-NN**).
 
-- [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
+**DevOps & docs** - [Ansible roles](https://github.com/angristan/ansible-roles) <img valign="middle" src="https://img.shields.io/github/stars/angristan/ansible-roles?style=flat&label=" /> for Debian/Ubuntu, Docker images for [Feedbin](https://github.com/angristan/feedbin-docker) <img valign="middle" src="https://img.shields.io/github/stars/angristan/feedbin-docker?style=flat&label=" /> and [Pleroma](https://github.com/angristan/docker-pleroma) <img valign="middle" src="https://img.shields.io/github/stars/angristan/docker-pleroma?style=flat&label=" />, [NixOS config](https://github.com/angristan/nixos-config) <img valign="middle" src="https://img.shields.io/github/stars/angristan/nixos-config?style=flat&label=" />, and [Arch Linux install notes](https://github.com/angristan/arch-linux-install) <img valign="middle" src="https://img.shields.io/github/stars/angristan/arch-linux-install?style=flat&label=" />. I also maintain curated lists for [GitHub stars](https://github.com/angristan/awesome-stars) <img valign="middle" src="https://img.shields.io/github/stars/angristan/awesome-stars?style=flat&label=" /> and [LXC/LXD](https://github.com/angristan/awesome-lxc-lxd) <img valign="middle" src="https://img.shields.io/github/stars/angristan/awesome-lxc-lxd?style=flat&label=" />.
 
-#### Scripts 💾
-
-- [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
-- [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
-
-#### School projects 👨‍🎓
-
-- [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
-- [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
-- [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
-- [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
-
-#### DevOps 🔁
-
-- [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian/Ubuntu
-- [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in Docker
-- [docker-pleroma](https://github.com/angristan/docker-pleroma): Docker image for the **Pleroma** federated social network
-
-#### Docs ✍️
-
-- [awesome-stars](https://github.com/angristan/awesome-stars): A curated list of my **GitHub stars**
-- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
-- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
-- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
-
-### 🌍 The languages I use
+### Languages I use
 
 | ⏰ Past month                                                                                                                                          | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" /> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
