@@ -1,6 +1,8 @@
-### Hi there <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
+### Hi there 👋 <img align='right' src="https://github-readme-stats-angristans-projects.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
 
-I'm Stan, a software engineer interested in all parts of the stack, from low-level systems and infra to web and mobile. I love building open-source projects in my free time. You might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
+I'm Stan, a software engineer interested in all parts of the stack, from low-level system programming and infra to web development and mobile apps.
+
+I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub, so you might find interesting things in my [starred projects](https://github.com/angristan/awesome-stars).
 
 ### Projects
 
