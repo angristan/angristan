@@ -10,6 +10,7 @@ Here are some of my projects. I hope you find them interesting!
 
 #### Web 🌐
 
+- [Pastekey](https://github.com/angristan/pastekey): Passkey-only, end-to-end encrypted text and file sharing, built with **React**, **Hono**, and **Cloudflare Workers**
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Laravel**, **Inertia** and **React** with some neat features
 - [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia** and **React**
 - [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia** and **React**
@@ -24,6 +25,7 @@ Here are some of my projects. I hope you find them interesting!
 - [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
 - [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
+- [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features
 
 #### Home automation 🏡
 
