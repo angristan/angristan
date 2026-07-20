@@ -21,11 +21,17 @@ Here are some of my projects. I hope you find them interesting!
 - [fast-resume](https://github.com/angristan/fast-resume): A fuzzy finder **TUI** to search and resume coding agent sessions, built with **Python** and **Textual**
 - [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**
 - [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**
-- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **Opencode plugin** written in Typescript to track code activity in **Wakatime**
 - [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
 - [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features
+
+<details>
+<summary>More tools</summary>
+
+- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
+- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+
+</details>
 
 #### Home automation 🏡
 
