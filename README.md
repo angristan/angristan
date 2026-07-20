@@ -42,8 +42,6 @@ I love building and contributing to open-source projects in my free time. I also
 #### DevOps 🔁
 
 - [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian/Ubuntu.
-- [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in **Docker**.
-- [docker-pleroma](https://github.com/angristan/docker-pleroma): **Docker** image for the **Pleroma** federated social network.
 
 #### Configuration and resources
 
@@ -59,5 +57,7 @@ I love building and contributing to open-source projects in my free time. I also
 - [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
 - [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **NGINX** from source with custom modules on Debian and Ubuntu.
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, **JavaFX**, audio fingerprint in **C++**).
+- [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in **Docker**.
+- [docker-pleroma](https://github.com/angristan/docker-pleroma): **Docker** image for the **Pleroma** federated social network.
 
 </details>
