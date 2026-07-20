@@ -11,6 +11,7 @@ I love building and contributing to open-source projects in my free time. I also
 - [Pastekey](https://github.com/angristan/pastekey): Passkey-only, end-to-end encrypted text and file sharing, built with **React**, **Hono**, and **Cloudflare Workers**.
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Go**, **Inertia**, and **React**.
 - [enedis-carte-coupure](https://github.com/angristan/enedis-carte-coupure): Maps streets affected by Enedis power outages using public geospatial data, built with **React**, **Effect**, and **Cloudflare Workers**.
+- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia**, and **React**.
 - [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia**, and **React**.
 
 #### Mobile 📱
@@ -54,7 +55,6 @@ I love building and contributing to open-source projects in my free time. I also
 
 ##### Web and tools
 
-- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia**, and **React**.
 - [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (**MySQL**) to **Umami** (**PostgreSQL**).
 - [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
 - [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **WakaTime**.
