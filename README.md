@@ -20,7 +20,6 @@ I love building and contributing to open-source projects in my free time. I also
 - [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**.
 - [MacThrottle](https://github.com/angristan/MacThrottle): A **macOS menu bar app** to know when your Mac is thermal throttling, built with **SwiftUI**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **OpenCode plugin** written in **TypeScript** to track code activity in **WakaTime**.
-- [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **WakaTime**.
 - [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features.
 
 #### Home automation 🏡
@@ -59,5 +58,6 @@ I love building and contributing to open-source projects in my free time. I also
 - [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, **JavaFX**, audio fingerprint in **C++**).
 - [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in **Docker**.
 - [docker-pleroma](https://github.com/angristan/docker-pleroma): **Docker** image for the **Pleroma** federated social network.
+- [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **WakaTime**.
 
 </details>
