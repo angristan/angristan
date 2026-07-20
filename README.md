@@ -25,14 +25,6 @@ Here are some of my projects. I hope you find them interesting!
 - [codex-wakatime](https://github.com/angristan/codex-wakatime): A **Codex CLI plugin** written in **TypeScript** to track code activity in **Wakatime**
 - [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features
 
-<details>
-<summary>More tools</summary>
-
-- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
-- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
-
-</details>
-
 #### Home automation 🏡
 
 - [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
@@ -41,14 +33,12 @@ Here are some of my projects. I hope you find them interesting!
 
 - [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers
-- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
 
 #### School projects 👨‍🎓
 
 - [Tereus](https://github.com/tereus-project): Code transpiling platform (**Go**, ANTLR, **React** with Remix, NSQ)
 - [firstfm-ios](https://github.com/angristan/firstfm-ios): iOS client for Last.fm written with Swift and **SwiftUI**
 - [Codebench](https://github.com/codebench-dev/): Code benchmarking platform (NestJS, **React**, **Go** workers, **Firecracker** microVMs)
-- [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
 - [palette](https://github.com/angristan/palette): Extract color palette from an image with **k-means** and **k-NN** (OpenCV, sklearn, pandas, numpy)
 
 #### DevOps 🔁
@@ -63,3 +53,13 @@ Here are some of my projects. I hope you find them interesting!
 - [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries and related projects.
 - [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files
 - [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes
+
+<details>
+<summary>More projects</summary>
+
+- [matomo-to-umami](https://github.com/angristan/matomo-to-umami): A **Python** tool to migrate analytics data from **Matomo** (MySQL) to **Umami** (PostgreSQL)
+- [trakt-cli](https://github.com/angristan/trakt-cli): A CLI tool for trakt.tv in **Go**.
+- [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **Nginx** from source with custom modules on Debian and Ubuntu
+- [Soundhive](https://github.com/soundhive): Music sharing service (**NestJS**, **Angular**, JavaFX, audio fingerprint in C++)
+
+</details>
