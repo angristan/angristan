@@ -10,9 +10,9 @@ I love building and contributing to open-source projects in my free time. I also
 
 - [Pastekey](https://github.com/angristan/pastekey): Passkey-only, end-to-end encrypted text and file sharing, built with **React**, **Hono**, and **Cloudflare Workers**.
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Go**, **Inertia**, and **React**.
-- [enedis-carte-coupure](https://github.com/angristan/enedis-carte-coupure): Maps streets affected by Enedis power outages using public geospatial data, built with **React**, **Effect**, and **Cloudflare Workers**.
 - [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia**, and **React**.
 - [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia**, and **React**.
+- [enedis-carte-coupure](https://github.com/angristan/enedis-carte-coupure): Maps streets affected by Enedis power outages using public geospatial data, built with **React**, **Effect**, and **Cloudflare Workers**.
 
 #### Mobile 📱
 
@@ -26,11 +26,11 @@ I love building and contributing to open-source projects in my free time. I also
 
 #### Terminal 💻
 
-- [noclaw](https://github.com/angristan/noclaw): A tiny autonomous AI assistant written in **C**, shipping as a single binary with a 324 KB memory footprint.
 - [fast-resume](https://github.com/angristan/fast-resume): A full-text search **TUI** for finding and resuming coding sessions, built with **Rust**, **Ratatui**, and **Tantivy**.
+- [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features.
 - [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **OpenCode plugin** written in **TypeScript** to track code activity in **WakaTime**.
-- [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features.
+- [noclaw](https://github.com/angristan/noclaw): A tiny autonomous AI assistant written in **C**, shipping as a single binary with a 324 KB memory footprint.
 
 #### Systems and sandboxing 📦
 
@@ -40,8 +40,8 @@ I love building and contributing to open-source projects in my free time. I also
 
 #### Home automation 🏡
 
-- [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**.
 - [teleinfo2mqtt-rs](https://github.com/angristan/teleinfo2mqtt-rs): Convert **TeleInfo** frames from a **Linky** meter's serial port to Home Assistant-compatible **MQTT** messages. I also built my [own MQTT client](https://github.com/angristan/aimeqtt) for this.
+- [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**.
 - [lametric-time](https://github.com/angristan/lametric-time): A Linux toolkit for recovering and provisioning a **LaMetric TIME** through its undocumented setup API.
 
 #### Infrastructure 🔁
@@ -49,6 +49,10 @@ I love building and contributing to open-source projects in my free time. I also
 - [wireguard-install](https://github.com/angristan/wireguard-install): **WireGuard** VPN installer for Linux servers.
 - [openvpn-install](https://github.com/angristan/openvpn-install): **OpenVPN** installer for Linux servers.
 - [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall): Compile **NGINX** from source with custom modules and patches on Debian and Ubuntu.
+- [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian and Ubuntu.
+- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries, and related projects.
+- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files.
+- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes.
 
 <details>
 <summary>More projects</summary>
@@ -61,13 +65,8 @@ I love building and contributing to open-source projects in my free time. I also
 
 ##### Infrastructure and configuration
 
-- [ansible-roles](https://github.com/angristan/ansible-roles): My **Ansible** roles for Debian and Ubuntu.
-- [ansible-restic](https://github.com/angristan/ansible-restic): An **Ansible** role for Restic.
 - [feedbin-docker](https://github.com/angristan/feedbin-docker): Self-host your own **Feedbin** RSS reader in **Docker**.
 - [docker-pleroma](https://github.com/angristan/docker-pleroma): **Docker** image for the **Pleroma** federated social network.
-- [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd): A curated list of awesome **LXC** and **LXD** tools, libraries, and related projects.
-- [nixos-config](https://github.com/angristan/nixos-config): My **NixOS** configuration files.
-- [arch-linux-install](https://github.com/angristan/arch-linux-install): My **Arch Linux** installation notes.
 
 ##### Earlier projects
 
