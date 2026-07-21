@@ -12,7 +12,7 @@ I love building and contributing to open-source projects in my free time. I also
 - [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Go**, **Inertia**, and **React**.
 - [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia**, and **React**.
 - [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia**, and **React**.
-- [enedis-carte-coupure](https://github.com/angristan/enedis-carte-coupure): Maps streets affected by Enedis power outages using public geospatial data, built with **React**, **Effect**, and **Cloudflare Workers**.
+- [Enedis](https://github.com/angristan/enedis): A live, street-level map of power outages reported by Enedis in France, built with **React**, **Effect**, **MapLibre**, and **Cloudflare Workers**.
 
 #### Mobile 📱
 
