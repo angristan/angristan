@@ -31,7 +31,7 @@ I love building and contributing to open-source projects in my free time. I also
 - [pi-extensions](https://github.com/angristan/pi-extensions): A collection of **TypeScript** extensions for the **Pi coding agent**, including UI, workflow, and quality-of-life features.
 - [hue-tui](https://github.com/angristan/hue-tui): A **TUI** to control **Philips Hue** lights, built with **Go** and **Bubble Tea**.
 - [opencode-wakatime](https://github.com/angristan/opencode-wakatime): An **OpenCode plugin** written in **TypeScript** to track code activity in **WakaTime**.
-- [noclaw](https://github.com/angristan/noclaw): A tiny autonomous AI assistant written in **C**, shipping as a single binary with a 324 KB memory footprint.
+- [noclaw](https://github.com/angristan/noclaw): A tiny autonomous AI assistant written in **C**, shipping as a single binary with a 324 KB memory footprint. (for the meme)
 
 #### Systems and sandboxing 📦
 
