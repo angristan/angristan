@@ -16,7 +16,7 @@ I love building and contributing to open-source projects in my free time. I also
 - [Enedis](https://github.com/angristan/enedis): A live, street-level map of power outages reported by Enedis in France.
 - [Vélib Pulse](https://github.com/angristan/velib): A map-first view of Vélib’ Métropole availability in Paris.
 
-I usually build web apps with **Cloudflare Workers**, **React**, and **Effect**.
+These days, I like to use **Cloudflare Workers**, **React**, and **Effect**.
 
 #### Mobile 📱
 
