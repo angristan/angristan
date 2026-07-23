@@ -8,13 +8,15 @@ I love building and contributing to open-source projects in my free time. I also
 
 #### Web 🌐
 
-- [Pastekey](https://github.com/angristan/pastekey): Passkey-only, end-to-end encrypted text and file sharing, built with **React**, **Hono**, and **Cloudflare Workers**.
+My recent web projects mostly use **React**, **Effect**, and **Cloudflare Workers**, with **Go** and **Laravel** for server-side applications.
+
+- [Pastekey](https://github.com/angristan/pastekey): Passkey-only, end-to-end encrypted text and file sharing.
 - [Koliko](https://github.com/angristan/koliko): Privacy-first, self-hostable usage analytics for coding agents. It shows where agent time, tokens, and costs go without collecting prompts, responses, or source code.
-- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader, built with **Go**, **Inertia**, and **React**.
-- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli, built with **Laravel**, **Inertia**, and **React**.
-- [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs, built with **Laravel**, **Inertia**, and **React**.
-- [Enedis](https://github.com/angristan/enedis): A live, street-level map of power outages reported by Enedis in France, built with **Effect**, **MapLibre**, and **Cloudflare Workers**.
-- [Vélib Pulse](https://github.com/angristan/velib): A fast, map-first view of Vélib’ Métropole availability in Paris, built with **React**, **Effect**, **MapLibre**, and **Cloudflare Workers**.
+- [Larafeed](https://github.com/angristan/larafeed): Web-based feed reader.
+- [Gongyu](https://github.com/angristan/gongyu): A modern, self-hosted bookmark manager inspired by Shaarli.
+- [Bulla](https://github.com/angristan/bulla): A self-hosted commenting system for static websites and blogs.
+- [Enedis](https://github.com/angristan/enedis): A live, street-level map of power outages reported by Enedis in France.
+- [Vélib Pulse](https://github.com/angristan/velib): A fast, map-first view of Vélib’ Métropole availability in Paris.
 
 #### Mobile 📱
 
